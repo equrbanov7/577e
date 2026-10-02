@@ -7,3 +7,5 @@ const b = Number(prompt("Enter the second number:"));
 const sum = a + b;
 
 console.log(`The sum of ${a} and ${b} is ${sum}.`);
+
+alert(`The sum of ${a} and ${b} is ${sum}.`);
